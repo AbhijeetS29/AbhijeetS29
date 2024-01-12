@@ -1,4 +1,7 @@
-<p align="center"><img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg" /> </p>
+<p align="center">
+    <img src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg"
+        width="700" height="300" alt="Your Image Description" />
+</p>
 <h1 align="center">Hello, I'm Abhijeet Singh</h1>
 <h3 align="center">Code Poet's Corner: Android (Kotlin), Flutter, Python Symphony</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeets29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeets29" /> </p>
