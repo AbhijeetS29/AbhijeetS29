@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Abhijeet Singh</h1>
 <h3 align="center">Code Poet's Corner: Android (Kotlin), Flutter, Python Symphony</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeets29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeets29" /> </p>
-
+[![GitHub Streak](https://github-readme-streak-stats-one-roan.vercel.app?user=AbhijeetS29&theme=dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on **MSS Student Wing**
 
