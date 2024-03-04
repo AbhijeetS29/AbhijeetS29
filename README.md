@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeets29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeets29" /> </p>
 [![GitHub Streak](https://github-readme-streak-stats-one-roan.vercel.app?user=AbhijeetS29&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on **MSS Student Wing**
+- 🔭 I’m currently working on **MSS Student Wing and FinSkool(E-PlatForm)**
 
 - 🌱 I’m currently learning **Flutter and UI/UX**
 
